@@ -1,8 +1,8 @@
-package com.mitchell;
+package main;
 
 import java.util.Scanner;
 
-public class Main {
+public class Input {
 
     public static void main(String[] args) throws InterruptedException {
         String name;
