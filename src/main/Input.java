@@ -17,6 +17,6 @@ public class Input {
             System.out.println("///");
             Thread.sleep(1000);
         }
-        System.out.println("It appears that your swag name would be: " + name + "swag");
+        System.out.println("It appears that yo swag name would be: " + name + "swag");
     }
 }
