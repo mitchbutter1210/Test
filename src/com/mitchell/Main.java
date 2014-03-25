@@ -8,7 +8,7 @@ public class Main {
         String name;
         System.out.println("Welcome to the swag machine!");
         Scanner s = new Scanner(System.in);
-        System.out.println("Enter yo name nigga");
+        System.out.print("Enter yo name nigga: ");
         name = s.nextLine();
         System.out.println("Hold up my nigga, we're generating your swag name");
         System.out.println("/");
